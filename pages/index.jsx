@@ -14,8 +14,7 @@ export default function Home() {
   return (
     <div className="intro-container">
       <p>
-        This example has the bare-bones you need to get started with
-        RoomService, including
+        The Good Chicken
         <ul>
           <li>
             An auth endpoint in <code>/pages/api/roomservice.ts</code>
